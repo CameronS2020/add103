@@ -1,0 +1,24 @@
+/* Styles */
+body{
+    background-color: black;
+    color: coral;
+    font-size:large;
+}
+
+.container{
+    width: 80%;
+    margin: 15
+}
+
+h1{
+    color: orangered;
+}
+
+header{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div, header, main, footer{
+    border: 2px solid orange
+}
