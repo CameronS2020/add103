@@ -19,6 +19,10 @@ header{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+p{
+    text-align: left;
+}
+
 div, header, main, footer{
     border: 2px solid orange
 }
