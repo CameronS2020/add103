@@ -26,4 +26,6 @@ body {
   ol {
     color: yellow;
   }
-  
+  ol ol{
+    color: crimson;
+  }
