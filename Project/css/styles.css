@@ -23,15 +23,13 @@ h2 {
 
 ul {
   list-style-type: none;
-  margin-left: 30%;
+  text-align: center;
 }
 
 ul a {
 color: bisque;
-text-shadow: black 3px 3px 3px;
-text-decoration: none;
 font-size: 20px;
-text-align: center;
+text-decoration-line: underline;
 }
 
 nav {
