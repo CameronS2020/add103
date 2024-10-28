@@ -240,6 +240,8 @@ main {
 footer {
   clear: both;
   color: orange;
+  text-align: center;
+  background-color: rgb(92, 77, 58);
 }
 
 .left {
