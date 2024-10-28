@@ -1,6 +1,6 @@
 body {
   background-color: orange;
-  color: rgb(131, 0, 192);
+  color: rgb(194, 91, 241);
   font-family: 'Times New Roman', Times, serif;
 }
 .container {
@@ -62,7 +62,9 @@ nav a:hover{
 }
 
 p{
-  text-align: center;
+  text-align:left;
+  width: 80%;
+  margin: auto;
   font-size: 25px;
   font-family: 'Times New Roman', Times, serif;
 }
