@@ -197,6 +197,19 @@ nav a {
   color: rgb(0, 187, 78);
   font-weight: bold;
   font-family: "Nosifer", sans-serif;
+  
+}
+nav a:hover {
+  color: ivory;
+  text-decoration: underline;
+  margin-left: 20px;
+  padding: 10px 20px;
+  border: 2px solid #99ab59;
+  background: rgb(122, 0, 0);
+  border-radius: 20px;
+  color: rgb(0, 187, 78);
+  font-weight: bold;
+  font-family: "Nosifer", sans-serif;
 }
 header {
   text-align: left;
