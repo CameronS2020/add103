@@ -101,14 +101,6 @@ summary,
 time,
 mark,
 audio,
-video {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  font-size: 100%;
-  font: inherit;
-  vertical-align: baseline;
-}
 /* HTML5 display-role reset for older browsers */
 article,
 aside,
@@ -204,13 +196,11 @@ nav a {
   font-family: "Nosifer", sans-serif;
 }
 header {
-  min-height: 100px;
 }
 .container {
   width: 80%;
   margin: 10px auto;
   padding: 15px;
-  min-height: 1000px;
   max-width: 1200px;
 }
 
@@ -224,7 +214,6 @@ aside {
   width: 20%;
   margin: 10px;
   float: right;
-  min-height: 100px;
 }
 
 figure {
@@ -258,8 +247,8 @@ footer {
 [class*="col-"] {
   width: 100%;
 }
- /*
-@media only screen and (min-width: 768px) {
+ 
+@media only screen and (min-width: 2000px) {
   body {
     background-color: burlywood;
   }
@@ -312,4 +301,3 @@ footer {
     width: 100%;
   }
 }
-*/
