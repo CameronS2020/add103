@@ -119,8 +119,8 @@ body {
   line-height: 1;
 }
 ol,
-ul {
-  list-style: none;
+ul a{
+  color: rgb(255, 216, 0);
   
 }
 blockquote,
