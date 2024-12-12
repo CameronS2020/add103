@@ -1,0 +1,25 @@
+#P1{
+    background-color: rgba(255, 0, 0, 0.2); /* These colors are to make the gradient hues, (Clashes with other advanced movements, so they don't connect. */
+    border-radius: 25px;
+    padding: 25px;
+    width: auto;
+    height: auto;
+    text-shadow: 2px 2px bisque;
+    word-wrap: break-word;
+
+
+}
+#P2{
+    background-color: rgba(255, 0, 0, 0.4);
+ background-image: url(bingus.jpg);
+    background-position: right bottom, left top;
+    background-repeat: no-repeat, repeat;
+    padding: 15px;
+}
+#P3{
+    background-color: rgba(255, 0, 0, 0.6);
+}
+#example1{
+background-image: linear-gradient(red,yellow);
+   
+}
