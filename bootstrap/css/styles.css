@@ -1,0 +1,23 @@
+body {
+    background: rgb(4, 52, 17);
+  }
+  
+  .container-fluid {
+    background-color: rgb(92, 72, 5);
+    color: bisque;
+    min-height: 50px;
+    margin-bottom: 20px;
+  }
+  .container{
+      background: bisque;
+      color: rgb(32, 30, 30);
+  }
+  
+  .container-fluid h1 {
+    text-align: left;
+    color: white;
+  }
+  div{
+
+
+  }
