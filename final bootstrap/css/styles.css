@@ -1,0 +1,9 @@
+img{
+    height: 50%;
+    width: 50%;
+    margin: 20px;
+}
+
+div{
+    background: linear-gradient(orange, bisque, beige);
+}
